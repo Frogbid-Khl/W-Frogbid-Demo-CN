@@ -323,7 +323,7 @@ hr {
 }
 
 .bg_dark_2 {
-  background-color: #33333A;
+  background-color: #e0e1f9;
 }
 
 .bg_dark_3 {
@@ -367,8 +367,8 @@ hr {
 /* Template Space - Start
 ================================================== */
 .section_space_lg {
-  padding-top: 120px;
-  padding-bottom: 120px;
+  padding-top: 42px;
+  padding-bottom: 42px;
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .section_space_lg {
@@ -4107,11 +4107,11 @@ textarea.form-control {
   color: #0F0E0E;
 }
 .site_footer.style_2 .copyright_widget a:hover {
-  color: #FF7F50;
+  color: #0e86d5;
 }
 
 .site_footer.style_3 {
-  color: #AFAFAF;
+  color: #0F0E0E;
 }
 .site_footer.style_3 p {
   color: #AFAFAF;
@@ -4150,7 +4150,7 @@ textarea.form-control {
 .site_footer.style_3 .footer_bottom .container {
   display: flex;
   align-items: center;
-  justify-content: space-between;
+  justify-content: center;
   flex-wrap: wrap;
   gap: 20px 30px;
 }
@@ -4158,7 +4158,7 @@ textarea.form-control {
   color: #5D636A;
 }
 .site_footer.style_3 .copyright_widget a {
-  color: #ffffff;
+  color: #0e86d5;
   padding: 0px 3px;
 }
 .site_footer.style_3 .copyright_widget a:hover {
